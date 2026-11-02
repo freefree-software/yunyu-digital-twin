@@ -1,0 +1,769 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4151111,
+            36.0556261
+          ],
+          [
+            120.4158889,
+            36.0549955
+          ],
+          [
+            120.4246111,
+            36.0549955
+          ],
+          [
+            120.4253889,
+            36.0556261
+          ],
+          [
+            120.4253889,
+            36.0633739
+          ],
+          [
+            120.4246111,
+            36.0640045
+          ],
+          [
+            120.4158889,
+            36.0640045
+          ],
+          [
+            120.4151111,
+            36.0633739
+          ],
+          [
+            120.4151111,
+            36.0556261
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-001",
+        "name": "园区环路",
+        "kind": "main",
+        "width": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4183889,
+            36.0549955
+          ],
+          [
+            120.4183889,
+            36.0640045
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-002",
+        "name": "研发大道",
+        "kind": "secondary",
+        "width": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4223889,
+            36.0549955
+          ],
+          [
+            120.4223889,
+            36.0640045
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-003",
+        "name": "智造大道",
+        "kind": "secondary",
+        "width": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4151111,
+            36.0583739
+          ],
+          [
+            120.4253889,
+            36.0583739
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-004",
+        "name": "云屿中路",
+        "kind": "secondary",
+        "width": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4151111,
+            36.0613468
+          ],
+          [
+            120.4253889,
+            36.0613468
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-005",
+        "name": "云屿北路",
+        "kind": "secondary",
+        "width": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4202556,
+            36.0545
+          ],
+          [
+            120.4202556,
+            36.0549955
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-006",
+        "name": "南门连接路",
+        "kind": "service",
+        "width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4202556,
+            36.0645
+          ],
+          [
+            120.4202556,
+            36.0640045
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-007",
+        "name": "北门连接路",
+        "kind": "service",
+        "width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.422254,
+            36.0591396
+          ],
+          [
+            120.422282,
+            36.0592778
+          ],
+          [
+            120.4221707,
+            36.0594107
+          ],
+          [
+            120.4219543,
+            36.0595244
+          ],
+          [
+            120.4216854,
+            36.059618
+          ],
+          [
+            120.4213902,
+            36.0596953
+          ],
+          [
+            120.421067,
+            36.059753
+          ],
+          [
+            120.4207187,
+            36.0597815
+          ],
+          [
+            120.4203667,
+            36.0597781
+          ],
+          [
+            120.4200297,
+            36.059754
+          ],
+          [
+            120.4196992,
+            36.0597242
+          ],
+          [
+            120.4193532,
+            36.0596898
+          ],
+          [
+            120.4190014,
+            36.0596349
+          ],
+          [
+            120.4187032,
+            36.0595428
+          ],
+          [
+            120.4185297,
+            36.0594156
+          ],
+          [
+            120.418502,
+            36.0592742
+          ],
+          [
+            120.4185722,
+            36.0591396
+          ],
+          [
+            120.418671,
+            36.0590173
+          ],
+          [
+            120.4187692,
+            36.0588996
+          ],
+          [
+            120.418893,
+            36.0587825
+          ],
+          [
+            120.419082,
+            36.0586737
+          ],
+          [
+            120.4193447,
+            36.0585848
+          ],
+          [
+            120.4196581,
+            36.0585191
+          ],
+          [
+            120.4200004,
+            36.0584717
+          ],
+          [
+            120.4203667,
+            36.0584427
+          ],
+          [
+            120.420748,
+            36.0584442
+          ],
+          [
+            120.4211081,
+            36.0584903
+          ],
+          [
+            120.4213987,
+            36.0585794
+          ],
+          [
+            120.4216048,
+            36.0586905
+          ],
+          [
+            120.4217645,
+            36.0588008
+          ],
+          [
+            120.4219312,
+            36.0589046
+          ],
+          [
+            120.422113,
+            36.0590136
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-008",
+        "name": "环湖步道",
+        "kind": "walk",
+        "width": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4167778,
+            36.061473
+          ],
+          [
+            120.4167778,
+            36.0638333
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-009",
+        "name": "研发西区纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4153222,
+            36.0624099
+          ],
+          [
+            120.4182333,
+            36.0624099
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-010",
+        "name": "研发西区横支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4200111,
+            36.061473
+          ],
+          [
+            120.4200111,
+            36.0638333
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-011",
+        "name": "研发北区纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4185444,
+            36.0622477
+          ],
+          [
+            120.4222333,
+            36.0622477
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-012",
+        "name": "研发北区横支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4241111,
+            36.061473
+          ],
+          [
+            120.4241111,
+            36.0638333
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-013",
+        "name": "创新孵化区纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4226556,
+            36.0626532
+          ],
+          [
+            120.4255667,
+            36.0626532
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-014",
+        "name": "创新孵化区横支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4167778,
+            36.0585
+          ],
+          [
+            120.4167778,
+            36.0597793
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-015",
+        "name": "能源区纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4153222,
+            36.0591396
+          ],
+          [
+            120.4182333,
+            36.0591396
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-016",
+        "name": "能源区横支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4167778,
+            36.0600315
+          ],
+          [
+            120.4167778,
+            36.0612207
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-017",
+        "name": "数据中心区纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4153222,
+            36.0606261
+          ],
+          [
+            120.4182333,
+            36.0606261
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-018",
+        "name": "数据中心区横支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4197593,
+            36.0600315
+          ],
+          [
+            120.4197593,
+            36.0612207
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-019",
+        "name": "滨湖配套纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4185444,
+            36.0606261
+          ],
+          [
+            120.4222333,
+            36.0606261
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-020",
+        "name": "滨湖配套横支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4236111,
+            36.0585
+          ],
+          [
+            120.4236111,
+            36.0612207
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-021",
+        "name": "智造东区纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4226556,
+            36.0598604
+          ],
+          [
+            120.4255667,
+            36.0598604
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-022",
+        "name": "智造东区横支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4167778,
+            36.0554369
+          ],
+          [
+            120.4167778,
+            36.0581577
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-023",
+        "name": "门户商业区纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4153222,
+            36.056518
+          ],
+          [
+            120.4182333,
+            36.056518
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-024",
+        "name": "门户商业区横支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4203889,
+            36.0554369
+          ],
+          [
+            120.4203889,
+            36.0581577
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-025",
+        "name": "生活配套区纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4185444,
+            36.0567973
+          ],
+          [
+            120.4222333,
+            36.0567973
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-026",
+        "name": "生活配套区横支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4236111,
+            36.0554369
+          ],
+          [
+            120.4236111,
+            36.0581577
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-027",
+        "name": "仓储物流区纵支路",
+        "kind": "service",
+        "width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            120.4226556,
+            36.056518
+          ],
+          [
+            120.4255667,
+            36.056518
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RD-028",
+        "name": "仓储物流区横支路",
+        "kind": "service",
+        "width": 4
+      }
+    }
+  ]
+}

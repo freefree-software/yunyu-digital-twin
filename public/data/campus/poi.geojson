@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4202556,
+          36.0546261
+        ]
+      },
+      "properties": {
+        "id": "P-001",
+        "name": "园区南门",
+        "type": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4202556,
+          36.0643739
+        ]
+      },
+      "properties": {
+        "id": "P-002",
+        "name": "园区北门",
+        "type": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4146556,
+          36.0595
+        ]
+      },
+      "properties": {
+        "id": "P-003",
+        "name": "园区西门",
+        "type": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4258444,
+          36.0595
+        ]
+      },
+      "properties": {
+        "id": "P-004",
+        "name": "园区东门",
+        "type": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4202778,
+          36.0599054
+        ]
+      },
+      "properties": {
+        "id": "P-005",
+        "name": "中央广场",
+        "type": "plaza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4192111,
+          36.0598333
+        ]
+      },
+      "properties": {
+        "id": "P-006",
+        "name": "湖滨步道",
+        "type": "leisure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4217,
+          36.0598514
+        ]
+      },
+      "properties": {
+        "id": "P-007",
+        "name": "观景平台",
+        "type": "leisure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4195,
+          36.0552027
+        ]
+      },
+      "properties": {
+        "id": "P-008",
+        "name": "地面停车场 A",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4222778,
+          36.0642117
+        ]
+      },
+      "properties": {
+        "id": "P-009",
+        "name": "地面停车场 B",
+        "type": "parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4242778,
+          36.0642117
+        ]
+      },
+      "properties": {
+        "id": "P-010",
+        "name": "充电站",
+        "type": "service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4222778,
+          36.0582658
+        ]
+      },
+      "properties": {
+        "id": "P-011",
+        "name": "员工球场",
+        "type": "leisure"
+      }
+    }
+  ]
+}

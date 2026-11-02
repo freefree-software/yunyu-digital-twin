@@ -1,0 +1,42 @@
+{
+  "name": "云屿园区数据资产（Step 1 + Step 2 周边楼宇）",
+  "version": "1.2.0",
+  "seed": 20261029,
+  "generatedAt": "2026-10-29",
+  "crs": "WGS84 (EPSG:4326)",
+  "origin": {
+    "lon": 120.4145,
+    "lat": 36.0545
+  },
+  "bbox": [
+    120.4145,
+    36.0545,
+    120.426,
+    36.0645
+  ],
+  "counts": {
+    "buildings": 128,
+    "keyBuildings": 12,
+    "roads": 28,
+    "water": 1,
+    "poi": 11,
+    "resources": 3,
+    "surroundings": 115,
+    "devices": 90,
+    "alerts": 28,
+    "tracks": 6,
+    "trackPoints": 1200
+  },
+  "files": {
+    "boundary": "campus/boundary.geojson",
+    "buildings": "campus/buildings.geojson",
+    "roads": "campus/roads.geojson",
+    "water": "campus/water.geojson",
+    "poi": "campus/poi.geojson",
+    "resources": "campus/resources.geojson",
+    "surroundings": "campus/surroundings.geojson",
+    "devices": "business/devices.json",
+    "alerts": "business/alerts.json",
+    "tracks": "business/tracks.json"
+  }
+}

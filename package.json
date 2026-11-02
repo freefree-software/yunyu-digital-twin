@@ -1,0 +1,30 @@
+{
+  "name": "yunyu-digital-twin",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "build:data": "node scripts/generate-campus-data.mjs",
+    "type-check": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "cesium": "^1.146.0",
+    "echarts": "^5.5.1",
+    "leaflet": "^1.9.4",
+    "pinia": "^2.2.6",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.14",
+    "@types/node": "^22.10.0",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "sass": "^1.83.0",
+    "typescript": "~5.6.3",
+    "vite": "^5.4.21",
+    "vite-plugin-cesium": "^1.2.23",
+    "vue-tsc": "^2.1.10"
+  }
+}

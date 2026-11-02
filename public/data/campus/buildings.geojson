@@ -1,0 +1,5893 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4154934,
+              36.0615454
+            ],
+            [
+              120.4158308,
+              36.0615454
+            ],
+            [
+              120.4158308,
+              36.0618135
+            ],
+            [
+              120.4154934,
+              36.0618135
+            ],
+            [
+              120.4154934,
+              36.0615454
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-001",
+        "name": "1 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 11,
+        "height": 38,
+        "area": 7755,
+        "deviceCount": 2,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4156621,
+          36.0616794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4161936,
+              36.0615676
+            ],
+            [
+              120.4165868,
+              36.0615676
+            ],
+            [
+              120.4165868,
+              36.0618125
+            ],
+            [
+              120.4161936,
+              36.0618125
+            ],
+            [
+              120.4161936,
+              36.0615676
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-002",
+        "name": "2 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 13,
+        "height": 46,
+        "area": 9757,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4163902,
+          36.0616901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4169511,
+              36.061538
+            ],
+            [
+              120.4173636,
+              36.061538
+            ],
+            [
+              120.4173636,
+              36.0618143
+            ],
+            [
+              120.4169511,
+              36.0618143
+            ],
+            [
+              120.4169511,
+              36.061538
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-003",
+        "name": "3 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 14,
+        "height": 50,
+        "area": 12434,
+        "deviceCount": 4,
+        "alertCount": 2,
+        "keyBuilding": true,
+        "center": [
+          120.4171573,
+          36.0616761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4176889,
+              36.0615688
+            ],
+            [
+              120.4181383,
+              36.0615688
+            ],
+            [
+              120.4181383,
+              36.0617986
+            ],
+            [
+              120.4176889,
+              36.0617986
+            ],
+            [
+              120.4176889,
+              36.0615688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-004",
+        "name": "4 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 15,
+        "height": 53,
+        "area": 12071,
+        "deviceCount": 2,
+        "alertCount": 1,
+        "keyBuilding": true,
+        "center": [
+          120.4179136,
+          36.0616837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4154656,
+              36.0620379
+            ],
+            [
+              120.4158192,
+              36.0620379
+            ],
+            [
+              120.4158192,
+              36.0622885
+            ],
+            [
+              120.4154656,
+              36.0622885
+            ],
+            [
+              120.4154656,
+              36.0620379
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-005",
+        "name": "5 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 12,
+        "height": 42,
+        "area": 8287,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4156424,
+          36.0621632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4161805,
+              36.062021
+            ],
+            [
+              120.4166271,
+              36.062021
+            ],
+            [
+              120.4166271,
+              36.0623056
+            ],
+            [
+              120.4161805,
+              36.0623056
+            ],
+            [
+              120.4161805,
+              36.062021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-006",
+        "name": "6 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 14,
+        "height": 50,
+        "area": 13861,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4164038,
+          36.0621633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.416955,
+              36.0620302
+            ],
+            [
+              120.417324,
+              36.0620302
+            ],
+            [
+              120.417324,
+              36.0622936
+            ],
+            [
+              120.416955,
+              36.0622936
+            ],
+            [
+              120.416955,
+              36.0620302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-007",
+        "name": "7 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 8,
+        "height": 29,
+        "area": 6058,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4171395,
+          36.0621619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4176641,
+              36.0620325
+            ],
+            [
+              120.4181165,
+              36.0620325
+            ],
+            [
+              120.4181165,
+              36.0623178
+            ],
+            [
+              120.4176641,
+              36.0623178
+            ],
+            [
+              120.4176641,
+              36.0620325
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-008",
+        "name": "8 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 9,
+        "height": 32,
+        "area": 9050,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4178903,
+          36.0621752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4154922,
+              36.062538
+            ],
+            [
+              120.4158095,
+              36.062538
+            ],
+            [
+              120.4158095,
+              36.0627819
+            ],
+            [
+              120.4154922,
+              36.0627819
+            ],
+            [
+              120.4154922,
+              36.062538
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-009",
+        "name": "9 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 13,
+        "height": 47,
+        "area": 7837,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4156509,
+          36.06266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4162305,
+              36.0625255
+            ],
+            [
+              120.4165611,
+              36.0625255
+            ],
+            [
+              120.4165611,
+              36.062799
+            ],
+            [
+              120.4162305,
+              36.062799
+            ],
+            [
+              120.4162305,
+              36.0625255
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-010",
+        "name": "10 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 14,
+        "height": 49,
+        "area": 9860,
+        "deviceCount": 2,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4163958,
+          36.0626623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4169539,
+              36.0625264
+            ],
+            [
+              120.417371,
+              36.0625264
+            ],
+            [
+              120.417371,
+              36.0627778
+            ],
+            [
+              120.4169539,
+              36.0627778
+            ],
+            [
+              120.4169539,
+              36.0625264
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-011",
+        "name": "11 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 9,
+        "height": 34,
+        "area": 7353,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4171625,
+          36.0626521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4176803,
+              36.0625295
+            ],
+            [
+              120.4181322,
+              36.0625295
+            ],
+            [
+              120.4181322,
+              36.0627665
+            ],
+            [
+              120.4176803,
+              36.0627665
+            ],
+            [
+              120.4176803,
+              36.0625295
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-012",
+        "name": "12 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 10,
+        "height": 37,
+        "area": 8343,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4179062,
+          36.062648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.415452,
+              36.0630081
+            ],
+            [
+              120.4158447,
+              36.0630081
+            ],
+            [
+              120.4158447,
+              36.0632724
+            ],
+            [
+              120.415452,
+              36.0632724
+            ],
+            [
+              120.415452,
+              36.0630081
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-013",
+        "name": "13 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 12,
+        "height": 42,
+        "area": 9705,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4156484,
+          36.0631403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4162275,
+              36.062988
+            ],
+            [
+              120.4165681,
+              36.062988
+            ],
+            [
+              120.4165681,
+              36.0632904
+            ],
+            [
+              120.4162275,
+              36.0632904
+            ],
+            [
+              120.4162275,
+              36.062988
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-014",
+        "name": "14 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 13,
+        "height": 45,
+        "area": 10431,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4163978,
+          36.0631392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4169457,
+              36.0630084
+            ],
+            [
+              120.4173728,
+              36.0630084
+            ],
+            [
+              120.4173728,
+              36.0632899
+            ],
+            [
+              120.4169457,
+              36.0632899
+            ],
+            [
+              120.4169457,
+              36.0630084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-015",
+        "name": "15 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 13,
+        "height": 46,
+        "area": 12177,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4171592,
+          36.0631492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4176905,
+              36.0630189
+            ],
+            [
+              120.4181017,
+              36.0630189
+            ],
+            [
+              120.4181017,
+              36.0632486
+            ],
+            [
+              120.4176905,
+              36.0632486
+            ],
+            [
+              120.4176905,
+              36.0630189
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-016",
+        "name": "16 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 15,
+        "height": 54,
+        "area": 11041,
+        "deviceCount": 4,
+        "alertCount": 0,
+        "keyBuilding": true,
+        "center": [
+          120.4178961,
+          36.0631338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.415461,
+              36.0634957
+            ],
+            [
+              120.4158237,
+              36.0634957
+            ],
+            [
+              120.4158237,
+              36.0637416
+            ],
+            [
+              120.415461,
+              36.0637416
+            ],
+            [
+              120.415461,
+              36.0634957
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-017",
+        "name": "17 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 13,
+        "height": 45,
+        "area": 9034,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4156423,
+          36.0636186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4161894,
+              36.063495
+            ],
+            [
+              120.41663,
+              36.063495
+            ],
+            [
+              120.41663,
+              36.0637553
+            ],
+            [
+              120.4161894,
+              36.0637553
+            ],
+            [
+              120.4161894,
+              36.063495
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-018",
+        "name": "18 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 10,
+        "height": 36,
+        "area": 8938,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4164097,
+          36.0636252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4169833,
+              36.0634973
+            ],
+            [
+              120.4173391,
+              36.0634973
+            ],
+            [
+              120.4173391,
+              36.0637598
+            ],
+            [
+              120.4169833,
+              36.0637598
+            ],
+            [
+              120.4169833,
+              36.0634973
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-019",
+        "name": "19 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 12,
+        "height": 42,
+        "area": 8730,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4171612,
+          36.0636286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4177053,
+              36.0634955
+            ],
+            [
+              120.4180786,
+              36.0634955
+            ],
+            [
+              120.4180786,
+              36.0637475
+            ],
+            [
+              120.4177053,
+              36.0637475
+            ],
+            [
+              120.4177053,
+              36.0634955
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-020",
+        "name": "20 号楼",
+        "district": "研发西区",
+        "kind": "office",
+        "floors": 11,
+        "height": 40,
+        "area": 8066,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4178919,
+          36.0636215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4186622,
+              36.0617346
+            ],
+            [
+              120.4191,
+              36.0617346
+            ],
+            [
+              120.4191,
+              36.0619633
+            ],
+            [
+              120.4186622,
+              36.0619633
+            ],
+            [
+              120.4186622,
+              36.0617346
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-021",
+        "name": "21 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 10,
+        "height": 36,
+        "area": 7800,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4188811,
+          36.0618489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4194536,
+              36.0617225
+            ],
+            [
+              120.4198074,
+              36.0617225
+            ],
+            [
+              120.4198074,
+              36.0619775
+            ],
+            [
+              120.4194536,
+              36.0619775
+            ],
+            [
+              120.4194536,
+              36.0617225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-022",
+        "name": "22 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 14,
+        "height": 50,
+        "area": 9843,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4196305,
+          36.06185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4201652,
+              36.0617153
+            ],
+            [
+              120.4206188,
+              36.0617153
+            ],
+            [
+              120.4206188,
+              36.0619648
+            ],
+            [
+              120.4201652,
+              36.0619648
+            ],
+            [
+              120.4201652,
+              36.0617153
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-023",
+        "name": "23 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 10,
+        "height": 37,
+        "area": 8820,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.420392,
+          36.06184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4209544,
+              36.0617137
+            ],
+            [
+              120.4213228,
+              36.0617137
+            ],
+            [
+              120.4213228,
+              36.0619733
+            ],
+            [
+              120.4209544,
+              36.0619733
+            ],
+            [
+              120.4209544,
+              36.0617137
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-024",
+        "name": "24 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 11,
+        "height": 39,
+        "area": 8197,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4211386,
+          36.0618435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4216704,
+              36.0617086
+            ],
+            [
+              120.4221315,
+              36.0617086
+            ],
+            [
+              120.4221315,
+              36.0619917
+            ],
+            [
+              120.4216704,
+              36.0619917
+            ],
+            [
+              120.4216704,
+              36.0617086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-025",
+        "name": "25 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 11,
+        "height": 38,
+        "area": 11186,
+        "deviceCount": 2,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4219009,
+          36.0618502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4186658,
+              36.0625482
+            ],
+            [
+              120.4190799,
+              36.0625482
+            ],
+            [
+              120.4190799,
+              36.0627661
+            ],
+            [
+              120.4186658,
+              36.0627661
+            ],
+            [
+              120.4186658,
+              36.0625482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-026",
+        "name": "26 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 14,
+        "height": 51,
+        "area": 9842,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4188728,
+          36.0626572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4194416,
+              36.0625277
+            ],
+            [
+              120.4198133,
+              36.0625277
+            ],
+            [
+              120.4198133,
+              36.0627787
+            ],
+            [
+              120.4194416,
+              36.0627787
+            ],
+            [
+              120.4194416,
+              36.0625277
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-027",
+        "name": "27 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 9,
+        "height": 33,
+        "area": 6543,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4196275,
+          36.0626532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4201833,
+              36.0625357
+            ],
+            [
+              120.4205707,
+              36.0625357
+            ],
+            [
+              120.4205707,
+              36.0627635
+            ],
+            [
+              120.4201833,
+              36.0627635
+            ],
+            [
+              120.4201833,
+              36.0625357
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-028",
+        "name": "28 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 11,
+        "height": 38,
+        "area": 7567,
+        "deviceCount": 3,
+        "alertCount": 2,
+        "keyBuilding": false,
+        "center": [
+          120.420377,
+          36.0626496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4209791,
+              36.0625318
+            ],
+            [
+              120.4213175,
+              36.0625318
+            ],
+            [
+              120.4213175,
+              36.0627792
+            ],
+            [
+              120.4209791,
+              36.0627792
+            ],
+            [
+              120.4209791,
+              36.0625318
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-029",
+        "name": "29 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 14,
+        "height": 52,
+        "area": 9131,
+        "deviceCount": 2,
+        "alertCount": 2,
+        "keyBuilding": true,
+        "center": [
+          120.4211483,
+          36.0626555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4216808,
+              36.0625169
+            ],
+            [
+              120.422097,
+              36.0625169
+            ],
+            [
+              120.422097,
+              36.0628084
+            ],
+            [
+              120.4216808,
+              36.0628084
+            ],
+            [
+              120.4216808,
+              36.0625169
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-030",
+        "name": "30 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 14,
+        "height": 52,
+        "area": 13237,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4218889,
+          36.0626626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4187064,
+              36.0633305
+            ],
+            [
+              120.4190477,
+              36.0633305
+            ],
+            [
+              120.4190477,
+              36.0635858
+            ],
+            [
+              120.4187064,
+              36.0635858
+            ],
+            [
+              120.4187064,
+              36.0633305
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-031",
+        "name": "31 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 11,
+        "height": 39,
+        "area": 7468,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4188771,
+          36.0634582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4194418,
+              36.063357
+            ],
+            [
+              120.4198426,
+              36.063357
+            ],
+            [
+              120.4198426,
+              36.0635923
+            ],
+            [
+              120.4194418,
+              36.0635923
+            ],
+            [
+              120.4194418,
+              36.063357
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-032",
+        "name": "32 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 9,
+        "height": 34,
+        "area": 6614,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4196422,
+          36.0634747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4201917,
+              36.063319
+            ],
+            [
+              120.4205865,
+              36.063319
+            ],
+            [
+              120.4205865,
+              36.0635943
+            ],
+            [
+              120.4201917,
+              36.0635943
+            ],
+            [
+              120.4201917,
+              36.063319
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-033",
+        "name": "33 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 16,
+        "height": 57,
+        "area": 13553,
+        "deviceCount": 2,
+        "alertCount": 1,
+        "keyBuilding": true,
+        "center": [
+          120.4203891,
+          36.0634567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4209592,
+              36.0633486
+            ],
+            [
+              120.4213462,
+              36.0633486
+            ],
+            [
+              120.4213462,
+              36.0635901
+            ],
+            [
+              120.4209592,
+              36.0635901
+            ],
+            [
+              120.4209592,
+              36.0633486
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-034",
+        "name": "34 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 15,
+        "height": 54,
+        "area": 10920,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": true,
+        "center": [
+          120.4211527,
+          36.0634693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4216627,
+              36.0633352
+            ],
+            [
+              120.4221144,
+              36.0633352
+            ],
+            [
+              120.4221144,
+              36.0636024
+            ],
+            [
+              120.4216627,
+              36.0636024
+            ],
+            [
+              120.4216627,
+              36.0633352
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-035",
+        "name": "35 号楼",
+        "district": "研发北区",
+        "kind": "office",
+        "floors": 11,
+        "height": 41,
+        "area": 10345,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4218886,
+          36.0634688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227833,
+              36.0615829
+            ],
+            [
+              120.4231725,
+              36.0615829
+            ],
+            [
+              120.4231725,
+              36.0618782
+            ],
+            [
+              120.4227833,
+              36.0618782
+            ],
+            [
+              120.4227833,
+              36.0615829
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-036",
+        "name": "36 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 7,
+        "height": 24,
+        "area": 6270,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4229779,
+          36.0617306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4235166,
+              36.061623
+            ],
+            [
+              120.423953,
+              36.061623
+            ],
+            [
+              120.423953,
+              36.0618554
+            ],
+            [
+              120.4235166,
+              36.0618554
+            ],
+            [
+              120.4235166,
+              36.061623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-037",
+        "name": "37 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 7,
+        "height": 25,
+        "area": 5531,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4237348,
+          36.0617392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4243207,
+              36.0616073
+            ],
+            [
+              120.4246706,
+              36.0616073
+            ],
+            [
+              120.4246706,
+              36.0618684
+            ],
+            [
+              120.4243207,
+              36.0618684
+            ],
+            [
+              120.4243207,
+              36.0616073
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-038",
+        "name": "38 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 8,
+        "height": 28,
+        "area": 5696,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4244957,
+          36.0617378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.425002,
+              36.0615984
+            ],
+            [
+              120.4254894,
+              36.0615984
+            ],
+            [
+              120.4254894,
+              36.0618975
+            ],
+            [
+              120.425002,
+              36.0618975
+            ],
+            [
+              120.425002,
+              36.0615984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-039",
+        "name": "39 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 9,
+        "height": 33,
+        "area": 10221,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4252457,
+          36.061748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227766,
+              36.0622059
+            ],
+            [
+              120.4231744,
+              36.0622059
+            ],
+            [
+              120.4231744,
+              36.0624799
+            ],
+            [
+              120.4227766,
+              36.0624799
+            ],
+            [
+              120.4227766,
+              36.0622059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-040",
+        "name": "40 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 7,
+        "height": 24,
+        "area": 5946,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4229755,
+          36.0623429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4235267,
+              36.0621931
+            ],
+            [
+              120.4239555,
+              36.0621931
+            ],
+            [
+              120.4239555,
+              36.0625077
+            ],
+            [
+              120.4235267,
+              36.0625077
+            ],
+            [
+              120.4235267,
+              36.0621931
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-041",
+        "name": "41 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 9,
+        "height": 33,
+        "area": 9461,
+        "deviceCount": 2,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4237411,
+          36.0623504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4242588,
+              36.0622319
+            ],
+            [
+              120.4247328,
+              36.0622319
+            ],
+            [
+              120.4247328,
+              36.0624589
+            ],
+            [
+              120.4242588,
+              36.0624589
+            ],
+            [
+              120.4242588,
+              36.0622319
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-042",
+        "name": "42 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 12,
+        "height": 43,
+        "area": 10064,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": true,
+        "center": [
+          120.4244958,
+          36.0623454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4250296,
+              36.0622148
+            ],
+            [
+              120.4254279,
+              36.0622148
+            ],
+            [
+              120.4254279,
+              36.0624747
+            ],
+            [
+              120.4250296,
+              36.0624747
+            ],
+            [
+              120.4250296,
+              36.0622148
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-043",
+        "name": "43 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 7,
+        "height": 25,
+        "area": 5645,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4252287,
+          36.0623447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227524,
+              36.0628019
+            ],
+            [
+              120.4232061,
+              36.0628019
+            ],
+            [
+              120.4232061,
+              36.0631022
+            ],
+            [
+              120.4227524,
+              36.0631022
+            ],
+            [
+              120.4227524,
+              36.0628019
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-044",
+        "name": "44 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 12,
+        "height": 42,
+        "area": 12739,
+        "deviceCount": 2,
+        "alertCount": 1,
+        "keyBuilding": true,
+        "center": [
+          120.4229792,
+          36.0629521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.423557,
+              36.0628098
+            ],
+            [
+              120.4239336,
+              36.0628098
+            ],
+            [
+              120.4239336,
+              36.0630946
+            ],
+            [
+              120.423557,
+              36.0630946
+            ],
+            [
+              120.423557,
+              36.0628098
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-045",
+        "name": "45 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 10,
+        "height": 37,
+        "area": 8355,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4237453,
+          36.0629522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4242939,
+              36.0628177
+            ],
+            [
+              120.4246892,
+              36.0628177
+            ],
+            [
+              120.4246892,
+              36.0631146
+            ],
+            [
+              120.4242939,
+              36.0631146
+            ],
+            [
+              120.4242939,
+              36.0628177
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-046",
+        "name": "46 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 9,
+        "height": 31,
+        "area": 8230,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4244916,
+          36.0629662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4250255,
+              36.0628366
+            ],
+            [
+              120.4254417,
+              36.0628366
+            ],
+            [
+              120.4254417,
+              36.0630603
+            ],
+            [
+              120.4250255,
+              36.0630603
+            ],
+            [
+              120.4250255,
+              36.0628366
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-047",
+        "name": "47 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 6,
+        "height": 22,
+        "area": 4353,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4252336,
+          36.0629484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.422819,
+              36.0634107
+            ],
+            [
+              120.4231764,
+              36.0634107
+            ],
+            [
+              120.4231764,
+              36.0637061
+            ],
+            [
+              120.422819,
+              36.0637061
+            ],
+            [
+              120.422819,
+              36.0634107
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-048",
+        "name": "48 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 7,
+        "height": 25,
+        "area": 5758,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4229977,
+          36.0635584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4235345,
+              36.0634173
+            ],
+            [
+              120.4239366,
+              36.0634173
+            ],
+            [
+              120.4239366,
+              36.0637251
+            ],
+            [
+              120.4235345,
+              36.0637251
+            ],
+            [
+              120.4235345,
+              36.0634173
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-049",
+        "name": "49 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 11,
+        "height": 39,
+        "area": 10607,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": true,
+        "center": [
+          120.4237356,
+          36.0635712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4242973,
+              36.063422
+            ],
+            [
+              120.4246962,
+              36.063422
+            ],
+            [
+              120.4246962,
+              36.063712
+            ],
+            [
+              120.4242973,
+              36.063712
+            ],
+            [
+              120.4242973,
+              36.063422
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-050",
+        "name": "50 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 10,
+        "height": 35,
+        "area": 9012,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4244968,
+          36.063567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.42499,
+              36.063454
+            ],
+            [
+              120.4254784,
+              36.063454
+            ],
+            [
+              120.4254784,
+              36.0636886
+            ],
+            [
+              120.42499,
+              36.0636886
+            ],
+            [
+              120.42499,
+              36.063454
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-051",
+        "name": "51 号楼",
+        "district": "创新孵化区",
+        "kind": "lab",
+        "floors": 7,
+        "height": 26,
+        "area": 6249,
+        "deviceCount": 2,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4252342,
+          36.0635713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4158418,
+              36.0586499
+            ],
+            [
+              120.4162145,
+              36.0586499
+            ],
+            [
+              120.4162145,
+              36.0589424
+            ],
+            [
+              120.4158418,
+              36.0589424
+            ],
+            [
+              120.4158418,
+              36.0586499
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-052",
+        "name": "52 号楼",
+        "district": "能源区",
+        "kind": "utility",
+        "floors": 3,
+        "height": 10,
+        "area": 2548,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4160282,
+          36.0587961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4173002,
+              36.0586902
+            ],
+            [
+              120.4177544,
+              36.0586902
+            ],
+            [
+              120.4177544,
+              36.058928
+            ],
+            [
+              120.4173002,
+              36.058928
+            ],
+            [
+              120.4173002,
+              36.0586902
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-053",
+        "name": "53 号楼",
+        "district": "能源区",
+        "kind": "utility",
+        "floors": 3,
+        "height": 12,
+        "area": 2524,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4175273,
+          36.0588091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4158662,
+              36.0593254
+            ],
+            [
+              120.4162036,
+              36.0593254
+            ],
+            [
+              120.4162036,
+              36.0596132
+            ],
+            [
+              120.4158662,
+              36.0596132
+            ],
+            [
+              120.4158662,
+              36.0593254
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-054",
+        "name": "54 号楼",
+        "district": "能源区",
+        "kind": "utility",
+        "floors": 3,
+        "height": 10,
+        "area": 2270,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4160349,
+          36.0594693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4173624,
+              36.0593548
+            ],
+            [
+              120.4176876,
+              36.0593548
+            ],
+            [
+              120.4176876,
+              36.0595959
+            ],
+            [
+              120.4173624,
+              36.0595959
+            ],
+            [
+              120.4173624,
+              36.0593548
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-055",
+        "name": "55 号楼",
+        "district": "能源区",
+        "kind": "utility",
+        "floors": 4,
+        "height": 15,
+        "area": 2444,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.417525,
+          36.0594754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.415852,
+              36.0601736
+            ],
+            [
+              120.4161889,
+              36.0601736
+            ],
+            [
+              120.4161889,
+              36.0604563
+            ],
+            [
+              120.415852,
+              36.0604563
+            ],
+            [
+              120.415852,
+              36.0601736
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-056",
+        "name": "56 号楼",
+        "district": "数据中心区",
+        "kind": "utility",
+        "floors": 6,
+        "height": 21,
+        "area": 4452,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": true,
+        "center": [
+          120.4160204,
+          36.0603149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.417318,
+              36.0601968
+            ],
+            [
+              120.4177292,
+              36.0601968
+            ],
+            [
+              120.4177292,
+              36.0604376
+            ],
+            [
+              120.417318,
+              36.0604376
+            ],
+            [
+              120.417318,
+              36.0601968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-057",
+        "name": "57 号楼",
+        "district": "数据中心区",
+        "kind": "utility",
+        "floors": 5,
+        "height": 18,
+        "area": 3859,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4175236,
+          36.0603172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4158656,
+              36.0607946
+            ],
+            [
+              120.416179,
+              36.0607946
+            ],
+            [
+              120.416179,
+              36.0610926
+            ],
+            [
+              120.4158656,
+              36.0610926
+            ],
+            [
+              120.4158656,
+              36.0607946
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-058",
+        "name": "58 号楼",
+        "district": "数据中心区",
+        "kind": "utility",
+        "floors": 5,
+        "height": 19,
+        "area": 3638,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4160223,
+          36.0609436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4173705,
+              36.0608175
+            ],
+            [
+              120.4176942,
+              36.0608175
+            ],
+            [
+              120.4176942,
+              36.0610736
+            ],
+            [
+              120.4173705,
+              36.0610736
+            ],
+            [
+              120.4173705,
+              36.0608175
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-059",
+        "name": "59 号楼",
+        "district": "数据中心区",
+        "kind": "utility",
+        "floors": 5,
+        "height": 17,
+        "area": 3229,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4175323,
+          36.0609456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4188239,
+              36.0601169
+            ],
+            [
+              120.4194415,
+              36.0601169
+            ],
+            [
+              120.4194415,
+              36.0604995
+            ],
+            [
+              120.4188239,
+              36.0604995
+            ],
+            [
+              120.4188239,
+              36.0601169
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-060",
+        "name": "60 号楼",
+        "district": "滨湖配套",
+        "kind": "public",
+        "floors": 4,
+        "height": 15,
+        "area": 7367,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4191327,
+          36.0603082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4201123,
+              36.0601421
+            ],
+            [
+              120.4206627,
+              36.0601421
+            ],
+            [
+              120.4206627,
+              36.0604694
+            ],
+            [
+              120.4201123,
+              36.0604694
+            ],
+            [
+              120.4201123,
+              36.0601421
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-061",
+        "name": "61 号楼",
+        "district": "滨湖配套",
+        "kind": "public",
+        "floors": 6,
+        "height": 20,
+        "area": 8422,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": true,
+        "center": [
+          120.4203875,
+          36.0603057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4213515,
+              36.0601209
+            ],
+            [
+              120.4219383,
+              36.0601209
+            ],
+            [
+              120.4219383,
+              36.0604862
+            ],
+            [
+              120.4213515,
+              36.0604862
+            ],
+            [
+              120.4213515,
+              36.0601209
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-062",
+        "name": "62 号楼",
+        "district": "滨湖配套",
+        "kind": "public",
+        "floors": 4,
+        "height": 15,
+        "area": 6682,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4216449,
+          36.0603035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4188573,
+              36.060764
+            ],
+            [
+              120.4193803,
+              36.060764
+            ],
+            [
+              120.4193803,
+              36.0611203
+            ],
+            [
+              120.4188573,
+              36.0611203
+            ],
+            [
+              120.4188573,
+              36.060764
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-063",
+        "name": "63 号楼",
+        "district": "滨湖配套",
+        "kind": "public",
+        "floors": 3,
+        "height": 12,
+        "area": 4356,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4191188,
+          36.0609421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4200373,
+              36.060763
+            ],
+            [
+              120.4207467,
+              36.060763
+            ],
+            [
+              120.4207467,
+              36.061135
+            ],
+            [
+              120.4200373,
+              36.061135
+            ],
+            [
+              120.4200373,
+              36.060763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-064",
+        "name": "64 号楼",
+        "district": "滨湖配套",
+        "kind": "public",
+        "floors": 5,
+        "height": 19,
+        "area": 10281,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.420392,
+          36.060949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4213872,
+              36.0607882
+            ],
+            [
+              120.4219158,
+              36.0607882
+            ],
+            [
+              120.4219158,
+              36.061094
+            ],
+            [
+              120.4213872,
+              36.061094
+            ],
+            [
+              120.4213872,
+              36.0607882
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-065",
+        "name": "65 号楼",
+        "district": "滨湖配套",
+        "kind": "public",
+        "floors": 3,
+        "height": 12,
+        "area": 3780,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4216515,
+          36.0609411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227571,
+              36.0586454
+            ],
+            [
+              120.4234669,
+              36.0586454
+            ],
+            [
+              120.4234669,
+              36.0589833
+            ],
+            [
+              120.4227571,
+              36.0589833
+            ],
+            [
+              120.4227571,
+              36.0586454
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-066",
+        "name": "66 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 6,
+        "height": 22,
+        "area": 11215,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.423112,
+          36.0588143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4237816,
+              36.0586439
+            ],
+            [
+              120.424442,
+              36.0586439
+            ],
+            [
+              120.424442,
+              36.0589608
+            ],
+            [
+              120.4237816,
+              36.0589608
+            ],
+            [
+              120.4237816,
+              36.0586439
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-067",
+        "name": "67 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 3,
+        "height": 12,
+        "area": 4892,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4241118,
+          36.0588024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4247497,
+              36.0586374
+            ],
+            [
+              120.4254751,
+              36.0586374
+            ],
+            [
+              120.4254751,
+              36.0590059
+            ],
+            [
+              120.4247497,
+              36.0590059
+            ],
+            [
+              120.4247497,
+              36.0586374
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-068",
+        "name": "68 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 4,
+        "height": 16,
+        "area": 8334,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4251124,
+          36.0588217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227364,
+              36.0593345
+            ],
+            [
+              120.4235046,
+              36.0593345
+            ],
+            [
+              120.4235046,
+              36.0596922
+            ],
+            [
+              120.4227364,
+              36.0596922
+            ],
+            [
+              120.4227364,
+              36.0593345
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-069",
+        "name": "69 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 5,
+        "height": 19,
+        "area": 10706,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4231205,
+          36.0595133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4237414,
+              36.0592967
+            ],
+            [
+              120.4244902,
+              36.0592967
+            ],
+            [
+              120.4244902,
+              36.0597068
+            ],
+            [
+              120.4237414,
+              36.0597068
+            ],
+            [
+              120.4237414,
+              36.0592967
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-070",
+        "name": "70 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 5,
+        "height": 18,
+        "area": 11963,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4241158,
+          36.0595018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4247718,
+              36.0593462
+            ],
+            [
+              120.4254289,
+              36.0593462
+            ],
+            [
+              120.4254289,
+              36.059676
+            ],
+            [
+              120.4247718,
+              36.059676
+            ],
+            [
+              120.4247718,
+              36.0593462
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-071",
+        "name": "71 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 4,
+        "height": 14,
+        "area": 6755,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4251003,
+          36.0595111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227474,
+              36.060044
+            ],
+            [
+              120.4234859,
+              36.060044
+            ],
+            [
+              120.4234859,
+              36.0603549
+            ],
+            [
+              120.4227474,
+              36.0603549
+            ],
+            [
+              120.4227474,
+              36.060044
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-072",
+        "name": "72 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 6,
+        "height": 21,
+        "area": 10735,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4231166,
+          36.0601994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4237589,
+              36.0600152
+            ],
+            [
+              120.4244519,
+              36.0600152
+            ],
+            [
+              120.4244519,
+              36.0603911
+            ],
+            [
+              120.4237589,
+              36.0603911
+            ],
+            [
+              120.4237589,
+              36.0600152
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-073",
+        "name": "73 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 4,
+        "height": 14,
+        "area": 8119,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4241054,
+          36.0602031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4247719,
+              36.0600278
+            ],
+            [
+              120.4254609,
+              36.0600278
+            ],
+            [
+              120.4254609,
+              36.0603925
+            ],
+            [
+              120.4247719,
+              36.0603925
+            ],
+            [
+              120.4247719,
+              36.0600278
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-074",
+        "name": "74 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 6,
+        "height": 21,
+        "area": 11748,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4251164,
+          36.0602102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227554,
+              36.0607499
+            ],
+            [
+              120.4234894,
+              36.0607499
+            ],
+            [
+              120.4234894,
+              36.0610576
+            ],
+            [
+              120.4227554,
+              36.0610576
+            ],
+            [
+              120.4227554,
+              36.0607499
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-075",
+        "name": "75 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 6,
+        "height": 21,
+        "area": 10559,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4231224,
+          36.0609037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4237296,
+              36.0607452
+            ],
+            [
+              120.4244862,
+              36.0607452
+            ],
+            [
+              120.4244862,
+              36.0610872
+            ],
+            [
+              120.4237296,
+              36.0610872
+            ],
+            [
+              120.4237296,
+              36.0607452
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-076",
+        "name": "76 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 5,
+        "height": 17,
+        "area": 10080,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4241079,
+          36.0609162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.42479,
+              36.0607533
+            ],
+            [
+              120.4254135,
+              36.0607533
+            ],
+            [
+              120.4254135,
+              36.0610716
+            ],
+            [
+              120.42479,
+              36.0610716
+            ],
+            [
+              120.42479,
+              36.0607533
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-077",
+        "name": "77 号楼",
+        "district": "智造东区",
+        "kind": "factory",
+        "floors": 5,
+        "height": 19,
+        "area": 7733,
+        "deviceCount": 2,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4251018,
+          36.0609125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4153796,
+              36.0555204
+            ],
+            [
+              120.4159313,
+              36.0555204
+            ],
+            [
+              120.4159313,
+              36.0558601
+            ],
+            [
+              120.4153796,
+              36.0558601
+            ],
+            [
+              120.4153796,
+              36.0555204
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-078",
+        "name": "78 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 8,
+        "height": 30,
+        "area": 11683,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4156554,
+          36.0556902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4161755,
+              36.0555276
+            ],
+            [
+              120.4166169,
+              36.0555276
+            ],
+            [
+              120.4166169,
+              36.055842
+            ],
+            [
+              120.4161755,
+              36.055842
+            ],
+            [
+              120.4161755,
+              36.0555276
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-079",
+        "name": "79 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 8,
+        "height": 29,
+        "area": 8649,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4163962,
+          36.0556848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4168653,
+              36.0555298
+            ],
+            [
+              120.4174346,
+              36.0555298
+            ],
+            [
+              120.4174346,
+              36.0558385
+            ],
+            [
+              120.4168653,
+              36.0558385
+            ],
+            [
+              120.4168653,
+              36.0555298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-080",
+        "name": "80 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 9,
+        "height": 31,
+        "area": 12323,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.41715,
+          36.0556842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4176665,
+              36.0555082
+            ],
+            [
+              120.4181375,
+              36.0555082
+            ],
+            [
+              120.4181375,
+              36.0558713
+            ],
+            [
+              120.4176665,
+              36.0558713
+            ],
+            [
+              120.4176665,
+              36.0555082
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-081",
+        "name": "81 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 6,
+        "height": 22,
+        "area": 7996,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.417902,
+          36.0556897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4153699,
+              36.0560452
+            ],
+            [
+              120.4159189,
+              36.0560452
+            ],
+            [
+              120.4159189,
+              36.0564196
+            ],
+            [
+              120.4153699,
+              36.0564196
+            ],
+            [
+              120.4153699,
+              36.0560452
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-082",
+        "name": "82 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 9,
+        "height": 34,
+        "area": 14418,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": true,
+        "center": [
+          120.4156444,
+          36.0562324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4161644,
+              36.0560721
+            ],
+            [
+              120.4166225,
+              36.0560721
+            ],
+            [
+              120.4166225,
+              36.0564261
+            ],
+            [
+              120.4161644,
+              36.0564261
+            ],
+            [
+              120.4161644,
+              36.0560721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-083",
+        "name": "83 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 6,
+        "height": 23,
+        "area": 7582,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4163934,
+          36.0562491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4168765,
+              36.0560711
+            ],
+            [
+              120.4174502,
+              36.0560711
+            ],
+            [
+              120.4174502,
+              36.0563951
+            ],
+            [
+              120.4168765,
+              36.0563951
+            ],
+            [
+              120.4168765,
+              36.0560711
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-084",
+        "name": "84 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 5,
+        "height": 19,
+        "area": 7243,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4171633,
+          36.0562331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4176276,
+              36.0560913
+            ],
+            [
+              120.4182025,
+              36.0560913
+            ],
+            [
+              120.4182025,
+              36.056387
+            ],
+            [
+              120.4176276,
+              36.056387
+            ],
+            [
+              120.4176276,
+              36.0560913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-085",
+        "name": "85 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 6,
+        "height": 21,
+        "area": 7948,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.417915,
+          36.0562392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4153688,
+              36.0566639
+            ],
+            [
+              120.41594,
+              36.0566639
+            ],
+            [
+              120.41594,
+              36.0569378
+            ],
+            [
+              120.4153688,
+              36.0569378
+            ],
+            [
+              120.4153688,
+              36.0566639
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-086",
+        "name": "86 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 8,
+        "height": 27,
+        "area": 9754,
+        "deviceCount": 3,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4156544,
+          36.0568009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4161946,
+              36.0566276
+            ],
+            [
+              120.4166232,
+              36.0566276
+            ],
+            [
+              120.4166232,
+              36.0569808
+            ],
+            [
+              120.4161946,
+              36.0569808
+            ],
+            [
+              120.4161946,
+              36.0566276
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-087",
+        "name": "87 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 6,
+        "height": 22,
+        "area": 7077,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4164089,
+          36.0568042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4168871,
+              36.0566224
+            ],
+            [
+              120.417392,
+              36.0566224
+            ],
+            [
+              120.417392,
+              36.0569888
+            ],
+            [
+              120.4168871,
+              36.0569888
+            ],
+            [
+              120.4168871,
+              36.0566224
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-088",
+        "name": "88 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 9,
+        "height": 31,
+        "area": 12975,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4171395,
+          36.0568056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4176402,
+              36.0566445
+            ],
+            [
+              120.4181392,
+              36.0566445
+            ],
+            [
+              120.4181392,
+              36.0569565
+            ],
+            [
+              120.4176402,
+              36.0569565
+            ],
+            [
+              120.4176402,
+              36.0566445
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-089",
+        "name": "89 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 9,
+        "height": 31,
+        "area": 10918,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4178897,
+          36.0568005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4154486,
+              36.0571625
+            ],
+            [
+              120.4158569,
+              36.0571625
+            ],
+            [
+              120.4158569,
+              36.0575349
+            ],
+            [
+              120.4154486,
+              36.0575349
+            ],
+            [
+              120.4154486,
+              36.0571625
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-090",
+        "name": "90 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 6,
+        "height": 20,
+        "area": 7110,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4156528,
+          36.0573487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4161394,
+              36.0572122
+            ],
+            [
+              120.4166879,
+              36.0572122
+            ],
+            [
+              120.4166879,
+              36.0575
+            ],
+            [
+              120.4161394,
+              36.0575
+            ],
+            [
+              120.4161394,
+              36.0572122
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-091",
+        "name": "91 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 6,
+        "height": 20,
+        "area": 7379,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4164137,
+          36.0573561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4169496,
+              36.0571822
+            ],
+            [
+              120.4173706,
+              36.0571822
+            ],
+            [
+              120.4173706,
+              36.0575342
+            ],
+            [
+              120.4169496,
+              36.0575342
+            ],
+            [
+              120.4169496,
+              36.0571822
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-092",
+        "name": "92 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 8,
+        "height": 28,
+        "area": 9240,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4171601,
+          36.0573582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4176563,
+              36.0571738
+            ],
+            [
+              120.4181435,
+              36.0571738
+            ],
+            [
+              120.4181435,
+              36.0575515
+            ],
+            [
+              120.4176563,
+              36.0575515
+            ],
+            [
+              120.4176563,
+              36.0571738
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-093",
+        "name": "93 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 7,
+        "height": 25,
+        "area": 10038,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4178999,
+          36.0573626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4154039,
+              36.0577281
+            ],
+            [
+              120.4159251,
+              36.0577281
+            ],
+            [
+              120.4159251,
+              36.0581056
+            ],
+            [
+              120.4154039,
+              36.0581056
+            ],
+            [
+              120.4154039,
+              36.0577281
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-094",
+        "name": "94 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 9,
+        "height": 32,
+        "area": 13796,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4156645,
+          36.0579168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4161122,
+              36.057728
+            ],
+            [
+              120.4166753,
+              36.057728
+            ],
+            [
+              120.4166753,
+              36.0580824
+            ],
+            [
+              120.4161122,
+              36.0580824
+            ],
+            [
+              120.4161122,
+              36.057728
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-095",
+        "name": "95 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 8,
+        "height": 27,
+        "area": 12438,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4163937,
+          36.0579052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4169341,
+              36.0577319
+            ],
+            [
+              120.4173866,
+              36.0577319
+            ],
+            [
+              120.4173866,
+              36.0580905
+            ],
+            [
+              120.4169341,
+              36.0580905
+            ],
+            [
+              120.4169341,
+              36.0577319
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-096",
+        "name": "96 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 5,
+        "height": 19,
+        "area": 6323,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4171603,
+          36.0579112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4176076,
+              36.0577431
+            ],
+            [
+              120.4181736,
+              36.0577431
+            ],
+            [
+              120.4181736,
+              36.0580759
+            ],
+            [
+              120.4176076,
+              36.0580759
+            ],
+            [
+              120.4176076,
+              36.0577431
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-097",
+        "name": "97 号楼",
+        "district": "门户商业区",
+        "kind": "commercial",
+        "floors": 6,
+        "height": 21,
+        "area": 8806,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4178906,
+          36.0579095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4187294,
+              36.0556331
+            ],
+            [
+              120.4192388,
+              36.0556331
+            ],
+            [
+              120.4192388,
+              36.0558878
+            ],
+            [
+              120.4187294,
+              36.0558878
+            ],
+            [
+              120.4187294,
+              36.0556331
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-098",
+        "name": "98 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 6,
+        "height": 23,
+        "area": 6066,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4189841,
+          36.0557604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4196586,
+              36.0556241
+            ],
+            [
+              120.420167,
+              36.0556241
+            ],
+            [
+              120.420167,
+              36.0558562
+            ],
+            [
+              120.4196586,
+              36.0558562
+            ],
+            [
+              120.4196586,
+              36.0556241
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-099",
+        "name": "99 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 8,
+        "height": 27,
+        "area": 7357,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4199128,
+          36.0557401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4206172,
+              36.0556438
+            ],
+            [
+              120.4210955,
+              36.0556438
+            ],
+            [
+              120.4210955,
+              36.0558673
+            ],
+            [
+              120.4206172,
+              36.0558673
+            ],
+            [
+              120.4206172,
+              36.0556438
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-100",
+        "name": "100 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 7,
+        "height": 26,
+        "area": 5830,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4208564,
+          36.0557555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4215515,
+              36.0556218
+            ],
+            [
+              120.4220534,
+              36.0556218
+            ],
+            [
+              120.4220534,
+              36.0558913
+            ],
+            [
+              120.4215515,
+              36.0558913
+            ],
+            [
+              120.4215515,
+              36.0556218
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-101",
+        "name": "101 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 6,
+        "height": 23,
+        "area": 6323,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4218024,
+          36.0557565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4187559,
+              36.0563334
+            ],
+            [
+              120.4191717,
+              36.0563334
+            ],
+            [
+              120.4191717,
+              36.0565839
+            ],
+            [
+              120.4187559,
+              36.0565839
+            ],
+            [
+              120.4187559,
+              36.0563334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-102",
+        "name": "102 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 8,
+        "height": 30,
+        "area": 6491,
+        "deviceCount": 1,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4189638,
+          36.0564586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4197061,
+              36.056353
+            ],
+            [
+              120.4201071,
+              36.056353
+            ],
+            [
+              120.4201071,
+              36.0565541
+            ],
+            [
+              120.4197061,
+              36.0565541
+            ],
+            [
+              120.4197061,
+              36.056353
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-103",
+        "name": "103 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 5,
+        "height": 19,
+        "area": 3141,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4199066,
+          36.0564536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4206555,
+              36.0563213
+            ],
+            [
+              120.4210895,
+              36.0563213
+            ],
+            [
+              120.4210895,
+              36.0565816
+            ],
+            [
+              120.4206555,
+              36.0565816
+            ],
+            [
+              120.4206555,
+              36.0563213
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-104",
+        "name": "104 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 8,
+        "height": 27,
+        "area": 7043,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4208725,
+          36.0564514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4215734,
+              36.0563103
+            ],
+            [
+              120.422032,
+              36.0563103
+            ],
+            [
+              120.422032,
+              36.0565677
+            ],
+            [
+              120.4215734,
+              36.0565677
+            ],
+            [
+              120.4215734,
+              36.0563103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-105",
+        "name": "105 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 5,
+        "height": 18,
+        "area": 4599,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4218027,
+          36.056439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4187682,
+              36.0570249
+            ],
+            [
+              120.4191727,
+              36.0570249
+            ],
+            [
+              120.4191727,
+              36.0572507
+            ],
+            [
+              120.4187682,
+              36.0572507
+            ],
+            [
+              120.4187682,
+              36.0570249
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-106",
+        "name": "106 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 8,
+        "height": 27,
+        "area": 5692,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4189704,
+          36.0571378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4196577,
+              36.0570455
+            ],
+            [
+              120.4201739,
+              36.0570455
+            ],
+            [
+              120.4201739,
+              36.0572299
+            ],
+            [
+              120.4196577,
+              36.0572299
+            ],
+            [
+              120.4196577,
+              36.0570455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-107",
+        "name": "107 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 6,
+        "height": 21,
+        "area": 4452,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4199158,
+          36.0571377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4206417,
+              36.0570146
+            ],
+            [
+              120.4210774,
+              36.0570146
+            ],
+            [
+              120.4210774,
+              36.0572822
+            ],
+            [
+              120.4206417,
+              36.0572822
+            ],
+            [
+              120.4206417,
+              36.0570146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-108",
+        "name": "108 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 5,
+        "height": 19,
+        "area": 4542,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4208596,
+          36.0571484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4215854,
+              36.0570408
+            ],
+            [
+              120.4220064,
+              36.0570408
+            ],
+            [
+              120.4220064,
+              36.0572405
+            ],
+            [
+              120.4215854,
+              36.0572405
+            ],
+            [
+              120.4215854,
+              36.0570408
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-109",
+        "name": "109 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 5,
+        "height": 19,
+        "area": 3276,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4217959,
+          36.0571406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4187619,
+              36.0577368
+            ],
+            [
+              120.4191842,
+              36.0577368
+            ],
+            [
+              120.4191842,
+              36.0579355
+            ],
+            [
+              120.4187619,
+              36.0579355
+            ],
+            [
+              120.4187619,
+              36.0577368
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-110",
+        "name": "110 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 6,
+        "height": 23,
+        "area": 3922,
+        "deviceCount": 3,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.418973,
+          36.0578362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4196506,
+              36.0577415
+            ],
+            [
+              120.4201589,
+              36.0577415
+            ],
+            [
+              120.4201589,
+              36.0579421
+            ],
+            [
+              120.4196506,
+              36.0579421
+            ],
+            [
+              120.4196506,
+              36.0577415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-111",
+        "name": "111 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 6,
+        "height": 22,
+        "area": 4767,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4199047,
+          36.0578418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4205909,
+              36.0577393
+            ],
+            [
+              120.4211242,
+              36.0577393
+            ],
+            [
+              120.4211242,
+              36.0579555
+            ],
+            [
+              120.4205909,
+              36.0579555
+            ],
+            [
+              120.4205909,
+              36.0577393
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-112",
+        "name": "112 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 9,
+        "height": 32,
+        "area": 8085,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4208575,
+          36.0578474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4216017,
+              36.057745
+            ],
+            [
+              120.422002,
+              36.057745
+            ],
+            [
+              120.422002,
+              36.0579432
+            ],
+            [
+              120.4216017,
+              36.0579432
+            ],
+            [
+              120.4216017,
+              36.057745
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-113",
+        "name": "113 号楼",
+        "district": "生活配套区",
+        "kind": "residential",
+        "floors": 9,
+        "height": 31,
+        "area": 5562,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4218018,
+          36.0578441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227394,
+              36.0554777
+            ],
+            [
+              120.4235016,
+              36.0554777
+            ],
+            [
+              120.4235016,
+              36.0558942
+            ],
+            [
+              120.4227394,
+              36.0558942
+            ],
+            [
+              120.4227394,
+              36.0554777
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-114",
+        "name": "114 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 3,
+        "height": 11,
+        "area": 7421,
+        "deviceCount": 2,
+        "alertCount": 1,
+        "keyBuilding": false,
+        "center": [
+          120.4231205,
+          36.0556859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.423738,
+              36.0555057
+            ],
+            [
+              120.4245076,
+              36.0555057
+            ],
+            [
+              120.4245076,
+              36.0558501
+            ],
+            [
+              120.423738,
+              36.0558501
+            ],
+            [
+              120.423738,
+              36.0555057
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-115",
+        "name": "115 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 3,
+        "height": 12,
+        "area": 6196,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4241228,
+          36.0556779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4247215,
+              36.0555128
+            ],
+            [
+              120.4254755,
+              36.0555128
+            ],
+            [
+              120.4254755,
+              36.055866
+            ],
+            [
+              120.4247215,
+              36.055866
+            ],
+            [
+              120.4247215,
+              36.0555128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-116",
+        "name": "116 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 3,
+        "height": 12,
+        "area": 6226,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4250985,
+          36.0556894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227827,
+              36.0560267
+            ],
+            [
+              120.4234554,
+              36.0560267
+            ],
+            [
+              120.4234554,
+              36.056443
+            ],
+            [
+              120.4227827,
+              36.056443
+            ],
+            [
+              120.4227827,
+              36.0560267
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-117",
+        "name": "117 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 4,
+        "height": 15,
+        "area": 8728,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4231191,
+          36.0562349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.423682,
+              36.0560311
+            ],
+            [
+              120.4245264,
+              36.0560311
+            ],
+            [
+              120.4245264,
+              36.0564448
+            ],
+            [
+              120.423682,
+              36.0564448
+            ],
+            [
+              120.423682,
+              36.0560311
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-118",
+        "name": "118 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 3,
+        "height": 10,
+        "area": 8167,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4241042,
+          36.0562379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4247436,
+              36.0560234
+            ],
+            [
+              120.4254549,
+              36.0560234
+            ],
+            [
+              120.4254549,
+              36.0564512
+            ],
+            [
+              120.4247436,
+              36.0564512
+            ],
+            [
+              120.4247436,
+              36.0560234
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-119",
+        "name": "119 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 3,
+        "height": 9,
+        "area": 7115,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4250993,
+          36.0562373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227464,
+              36.0566178
+            ],
+            [
+              120.4234551,
+              36.0566178
+            ],
+            [
+              120.4234551,
+              36.056967
+            ],
+            [
+              120.4227464,
+              36.056967
+            ],
+            [
+              120.4227464,
+              36.0566178
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-120",
+        "name": "120 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 4,
+        "height": 15,
+        "area": 7715,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4231008,
+          36.0567924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4237514,
+              36.0566127
+            ],
+            [
+              120.4244689,
+              36.0566127
+            ],
+            [
+              120.4244689,
+              36.0569982
+            ],
+            [
+              120.4237514,
+              36.0569982
+            ],
+            [
+              120.4237514,
+              36.0566127
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-121",
+        "name": "121 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 4,
+        "height": 15,
+        "area": 8621,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4241101,
+          36.0568055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4247062,
+              36.0565816
+            ],
+            [
+              120.4255312,
+              36.0565816
+            ],
+            [
+              120.4255312,
+              36.0570068
+            ],
+            [
+              120.4247062,
+              36.0570068
+            ],
+            [
+              120.4247062,
+              36.0565816
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-122",
+        "name": "122 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 4,
+        "height": 13,
+        "area": 10935,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4251187,
+          36.0567942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4226932,
+              36.0571636
+            ],
+            [
+              120.4235218,
+              36.0571636
+            ],
+            [
+              120.4235218,
+              36.0575365
+            ],
+            [
+              120.4226932,
+              36.0575365
+            ],
+            [
+              120.4226932,
+              36.0571636
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-123",
+        "name": "123 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 3,
+        "height": 10,
+        "area": 7222,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4231075,
+          36.05735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4237461,
+              36.0571634
+            ],
+            [
+              120.4245018,
+              36.0571634
+            ],
+            [
+              120.4245018,
+              36.0575468
+            ],
+            [
+              120.4237461,
+              36.0575468
+            ],
+            [
+              120.4237461,
+              36.0571634
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-124",
+        "name": "124 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 3,
+        "height": 10,
+        "area": 6774,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.424124,
+          36.0573551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4247273,
+              36.0571636
+            ],
+            [
+              120.4254994,
+              36.0571636
+            ],
+            [
+              120.4254994,
+              36.057555
+            ],
+            [
+              120.4247273,
+              36.057555
+            ],
+            [
+              120.4247273,
+              36.0571636
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-125",
+        "name": "125 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 4,
+        "height": 14,
+        "area": 9419,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4251133,
+          36.0573593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4227533,
+              36.0577009
+            ],
+            [
+              120.4234604,
+              36.0577009
+            ],
+            [
+              120.4234604,
+              36.0581265
+            ],
+            [
+              120.4227533,
+              36.0581265
+            ],
+            [
+              120.4227533,
+              36.0577009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-126",
+        "name": "126 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 3,
+        "height": 10,
+        "area": 7034,
+        "deviceCount": 1,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4231068,
+          36.0579137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4237257,
+              36.0577265
+            ],
+            [
+              120.4245018,
+              36.0577265
+            ],
+            [
+              120.4245018,
+              36.0581034
+            ],
+            [
+              120.4237257,
+              36.0581034
+            ],
+            [
+              120.4237257,
+              36.0577265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-127",
+        "name": "127 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 4,
+        "height": 13,
+        "area": 9119,
+        "deviceCount": 0,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4241138,
+          36.057915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.4247319,
+              36.0577478
+            ],
+            [
+              120.4255157,
+              36.0577478
+            ],
+            [
+              120.4255157,
+              36.0581002
+            ],
+            [
+              120.4247319,
+              36.0581002
+            ],
+            [
+              120.4247319,
+              36.0577478
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-128",
+        "name": "128 号楼",
+        "district": "仓储物流区",
+        "kind": "warehouse",
+        "floors": 4,
+        "height": 14,
+        "area": 8609,
+        "deviceCount": 2,
+        "alertCount": 0,
+        "keyBuilding": false,
+        "center": [
+          120.4251238,
+          36.057924
+        ]
+      }
+    }
+  ]
+}

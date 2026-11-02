@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4245,
+          36.0552207
+        ]
+      },
+      "properties": {
+        "id": "R-001",
+        "name": "园区消防站",
+        "type": "fire",
+        "distanceKm": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4153889,
+          36.0552207
+        ]
+      },
+      "properties": {
+        "id": "R-002",
+        "name": "园区医疗点",
+        "type": "medical",
+        "distanceKm": 0.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4202778,
+          36.0599054
+        ]
+      },
+      "properties": {
+        "id": "R-003",
+        "name": "应急抢险队",
+        "type": "team",
+        "distanceKm": 0.3
+      }
+    }
+  ]
+}
